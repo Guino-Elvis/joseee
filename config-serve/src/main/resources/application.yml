@@ -7,7 +7,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/Guino-Elvis/PROYECTO_MOBILE_C8_PERSONALISADO.git
+          uri: https://github.com/Guino-Elvis/joseee.git
           search-paths: config-data
           default-label: main
   security:
